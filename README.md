@@ -33,7 +33,7 @@ Parallel port signals used to control the process are:
 | R1, R2, R3, R4, R5, R6  | 6 | 1K | Resistor |  
 | RV1,  | 1 | 10K Exponential | RK09L Horizontal Double|  Dual potentiometer, 10K Exponential | ALPS |
 | U1,  | 1 | | MCP6002 | 1MHz, Low-Power Op Amp, DIP-8 | Microchip |
-| U2,  | 1 | | DG419LDJ | Single SPDT 3V Logic Compatible CMOS Analog Switch, 35Ohm Ron, with Vlogic, DIP-8 | Vishay |
+| U2,  | 1 | | DG419DJ | Single SPDT 3V Logic Compatible CMOS Analog Switch, 35Ohm Ron, with Vlogic, DIP-8 | Vishay Siliconix |
 | U3,  | 1 | | ADC0820CCN+ | Analog to Digital 8 bits converter, DIP-20 | Texas Instruments |
 
 
