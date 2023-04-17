@@ -27,13 +27,13 @@ Parallel port signals used to control the process are:
 | C1, C2, C7, C8,  | 4 | 10uF 10v 10% | Electrolytic, Radial |
 | C3, C4, C5,  | 3 | 100nF 50v 10% | Ceramic |
 | C6,  | 1 | 47uF 10v 10% | Electrolytic, Radial |
-| J1,  | 1 | RIGHT | Conn_Coaxial | w_conn_av:rca_red |  
-| J2,  | 1 | LEFT | Conn_Coaxial | w_conn_av:rca_white |  
+| J1,  | 1 |  | RCA Connector | Red |  
+| J2,  | 1 |  | RCA Connector | White |  
 | J3,  | 1 |  | 25-pin male D-SUB connector | 
 | R1, R2, R3, R4, R5, R6  | 6 | 1K | Resistor |  
-| RV1,  | 1 | 10K exp | R_Potentiometer_Dual_Separate |  Dual potentiometer, separate units | 
-| U1,  | 1 | MCP6002 | MCP6002-xMC | 1MHz, Low-Power Op Amp, DFN-8 | 
-| U2,  | 1 | DG419DJ | DG419LDJ | Single SPDT 3V Logic Compatible CMOS Analog Switch, 35Ohm Ron, with Vlogic, DIP-8 | 
-| U3,  | 1 | ADC0820CCN+ | ADC0820 | Analog to Digital 8 bits converter, DIP-20 | 
+| RV1,  | 1 | 10K Exponential | RK09L Horizontal Double|  Dual potentiometer, 10K Exponential | ALPS |
+| U1,  | 1 | | MCP6002 | 1MHz, Low-Power Op Amp, DIP-8 | Microchip |
+| U2,  | 1 | | DG419LDJ | Single SPDT 3V Logic Compatible CMOS Analog Switch, 35Ohm Ron, with Vlogic, DIP-8 | Vishay |
+| U3,  | 1 | | ADC0820CCN+ | Analog to Digital 8 bits converter, DIP-20 | Texas Instruments |
 
 
