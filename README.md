@@ -29,8 +29,8 @@ Parallel port signals used to control the process are:
 | C6,  | 1 | 47uF 10v 10% | Electrolytic, Radial |
 | J1,  | 1 |  | RCA Connector | Red |  
 | J2,  | 1 |  | RCA Connector | White |  
-| J3,  | 1 |  | 25-pin male D-SUB connector | 
-| R1, R2, R3, R4, R5, R6  | 6 | 1K | Resistor |  
+| J3,  | 1 |  | 25-pin male D-SUB connector | PCB, Right-Angle |
+| R1, R2, R3, R4, R5, R6  | 6 | 1K 1% 1/4 Watts | Resistor | Trough hole resistor |
 | RV1,  | 1 | 10K Exponential | RK09L Horizontal Double|  Dual potentiometer, 10K Exponential | ALPS |
 | U1,  | 1 | | MCP6002 | 1MHz, Low-Power Op Amp, DIP-8 | Microchip |
 | U2,  | 1 | | DG419DJ | Single SPDT 3V Logic Compatible CMOS Analog Switch, 35Ohm Ron, with Vlogic, DIP-8 | Vishay Siliconix |
