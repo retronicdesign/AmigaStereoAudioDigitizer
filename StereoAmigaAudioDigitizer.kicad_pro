@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.1,
-          "height": 3.0,
-          "width": 2.0
+          "drill": 0.99568,
+          "height": 3.19786,
+          "width": 1.99898
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -333,7 +333,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "AmigaAudioDigitizer.kicad_pro",
+    "filename": "StereoAmigaAudioDigitizer.kicad_pro",
     "version": 1
   },
   "net_settings": {
