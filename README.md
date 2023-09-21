@@ -1,5 +1,5 @@
 # Amiga Stereo Audio Digitizer v1.2
-An Amiga Stereo Digitizer for Audio. Compatible with most softwares. Input volume is adjustable.
+An Amiga Stereo Digitizer for Audio. Compatible with most softwares. Input gain is adjustable.
 ![image](https://github.com/retronicdesign/AmigaStereoAudioDigitizer/assets/18539931/d1d22a5d-5f31-45d0-8b14-eef42ab7bdee)
 ## Schematic
 ![image](https://user-images.githubusercontent.com/18539931/232578802-d9e64a61-ccab-48a6-8866-7c32fd6352ec.png)
