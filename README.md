@@ -41,5 +41,5 @@ Parallel port signals used to control the process are:
 - 1.2 Modified RCA connector footprint
 - 1.3 Redesigned bias for more stable reference and simplified op-amp circuitry + PCB redesign
 - 1.3a Corrected routing from v1.3 (issue#2) + replaced SPDT Analog Switch for new part
-- 1.3b Corrected routing from v1.3a (issue#3) + replaced RCA plugs for Setero jack 3.5mm
+- 1.3b Corrected routing from v1.3a (issue#3) + replaced RCA plugs for Stereo jack 3.5mm
 
